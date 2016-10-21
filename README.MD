@@ -5,7 +5,7 @@
 
 ## What is this?
 
-To do
+Implementation of our [Animation Concept](https://dribbble.com/shots/2744351-Neon-Player-Concept) for iOS.
 
 ## Screenshots
 
